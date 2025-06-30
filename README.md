@@ -43,7 +43,7 @@ RoomGenius is a modern, responsive web application that helps users design and p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/roomgenius.git
+   git clone https://github.com/DebdootManna/roomgenius.git
    cd roomgenius
    ```
 
@@ -215,8 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feature requests:
 - **Email**: support@roomgenius.app
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/roomgenius/issues)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/roomgenius/wiki)
+- **GitHub Issues**: [Create an issue](https://github.com/DebdootManna/roomgenius/issues)
+- **Documentation**: [Project Wiki](https://github.com/DebdootManna/roomgenius/wiki)
 
 ---
 
